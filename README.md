@@ -25,5 +25,6 @@
 - 📧 Email: [chandak.yash101@gmail.com](mailto:chandak.yash101@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yashchandak101)
 - 🏗️ [GitHub](https://github.com/yashchandak101)
+- 🔧 [Yash Chandak Resume (Backend).pdf](https://github.com/user-attachments/files/19621891/Yash.Chandak.Resume.Backend.1.pdf)
 
 Let's build something amazing together! 🚀
