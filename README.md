@@ -1,30 +1,48 @@
-# Hi, I'm Yash Chandak! 👋
+# 👋 Hi, I'm Yash Chandak
 
-🚀 **Backend Developer** | Python | Django | Scalable Systems  
-🔹 Skilled in Django, Django REST Framework, Celery, Redis, Elasticsearch, RabbitMQ, and Docker.  
-🔹 Passionate about building efficient, scalable, and high-performance applications.  
-🔹 Experienced in real-time tracking, task automation, and full-stack development.
+**Full-Stack Developer** | 🚀 Real-Time Systems | 🧠 LLM & Automation | 🎨 3D Interfaces
 
-## 🔧 Tech Stack & Tools
-- **Backend:** Django, DRF, Celery, Redis, RabbitMQ, Kafka
-- **Databases:** PostgreSQL, MySQL, Elasticsearch
-- **Tools & Platforms:** Docker, Zookeeper, Web Scraping, Salesforce Integration
+I'm a full-stack developer passionate about building high-performance, scalable web applications using **Django**, **Celery**, **Kafka**, **Redis**, and **Elasticsearch** on the backend — paired with **Next.js**, **React**, and **React Three Fiber** on the frontend. I also explore automation, real-time tracking systems, and immersive 3D user interfaces using **Blender** and **Three.js**.
 
-## 📌 Projects
-- 🚀 **[PizzaDelivery](https://github.com/yashchandak101/PizzaDelivery)** - Real-time pizza delivery tracking using Django, Celery, Redis, Kafka & Elasticsearch.
-- 📊 **[ExpenseTracker](https://github.com/yashchandak101/ExpenseTracker)** - Expense tracking system with authentication.
-- 🛒 **[Ecommerce](https://github.com/yashchandak101/Ecommerce)** - Full-fledged e-commerce platform.
-- 🔍 **[DjangoElasticsearch](https://github.com/yashchandak101/DjangoElasticsearch)** - Real-time search integration using Elasticsearch.
-- 📍 **[Delivery Tracking Kafka](https://github.com/yashchandak101/Real-Time-Delivery-Location-Tracking-using-Google-Maps-Kafka)** - Real-time tracking with Kafka & Google Maps API.
-- 📑 **[Excel Automation](https://github.com/yashchandak101/excelAutomation-RabbitMQ)** - Automating Excel report generation with RabbitMQ.
-- 🖼 **[Celery Image Scraper](https://github.com/yashchandak101/Celery-ImageScraper)** - Asynchronous image scraping with Celery.
-- 🌐 **[Portfolio](https://github.com/yashchandak101/portfolio)** - Personal portfolio website.
-- 🔗 **Other Projects:** Django Admin Panel, FakerDataSeeder, ImageResizer, Multi-threaded Image Downloader.
+---
+
+## 🔧 Tech Stack
+
+**Backend**:  
+`Python` | `Django` | `Django REST Framework` | `Celery` | `Redis` | `Kafka` | `RabbitMQ` | `Elasticsearch`
+
+**Frontend**:  
+`Next.js` | `React.js` | `Tailwind CSS` | `React Three Fiber` | `Spline`
+
+**DevOps & Tools**:  
+`Docker` | `GitHub Actions` | `Zookeeper` | `CI/CD` | `Web Scraping` | `LLM Integration` | `Salesforce Integration`
+
+**3D & Animation**:  
+`Blender` | `Three.js` | `Spline`
+
+---
+
+## 🚀 Featured Projects
+
+- 🔄 [**PizzaDelivery**](https://github.com/yashchandak101/PizzaDelivery): Real-time delivery tracking using Django, Celery, Kafka, Redis & Google Maps API  
+- 💳 [**ExpenseTracker**](https://github.com/yashchandak101/ExpenseTracker): Track your expenses with authentication and secure flows  
+- 🛒 [**Ecommerce Platform**](https://github.com/yashchandak101/Ecommerce): Full-fledged online shopping experience  
+- 🔍 [**DjangoElasticsearch**](https://github.com/yashchandak101/DjangoElasticsearch): Realtime search powered by Elasticsearch  
+- 🧠 [**Celery Image Scraper**](https://github.com/yashchandak101/Celery-ImageScraper): Async image scraping with Celery  
+- 📈 [**Excel Automation with RabbitMQ**](https://github.com/yashchandak101/excelAutomation-RabbitMQ): Automated data processing with task queues  
+- 🌐 [**Portfolio**](https://github.com/yashchandak101/portfolio): Built with Next.js and animated with Spline
+
+---
 
 ## 📫 Connect With Me
-- 📧 Email: [chandak.yash101@gmail.com](mailto:chandak.yash101@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yashchandak101)
-- 🏗️ [GitHub](https://github.com/yashchandak101)
-- 🔧 [Yash Chandak Resume (Backend).pdf](https://github.com/user-attachments/files/19621891/Yash.Chandak.Resume.Backend.1.pdf)
 
-Let's build something amazing together! 🚀
+- 🌐 [Portfolio Website](https://portfolio-yashchandak101s-projects.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/yashchandak101)
+- 💻 [GitHub](https://github.com/yashchandak101)
+- 📌 [Resume](https://github.com/user-attachments/files/20068191/Yash.Chandak.pdf)
+- 📧 Email: chandak.yash101@gmail.com
+
+
+---
+
+⭐️ *Looking to collaborate on exciting projects or backend-heavy systems? Feel free to connect!*
