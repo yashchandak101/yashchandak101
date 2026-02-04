@@ -39,7 +39,7 @@ I'm a full-stack developer passionate about building high-performance, scalable 
 - 🌐 [Portfolio Website](https://portfolio-yashchandak101s-projects.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/yashchandak101)
 - 💻 [GitHub](https://github.com/yashchandak101)
-- 📌 [Resume](https://github.com/user-attachments/files/20068191/Yash.Chandak.pdf)
+- 📌 [Resume][Yash_Chandak_Backend_Engineer.pdf](https://github.com/user-attachments/files/25081378/Yash_Chandak_Backend_Engineer.pdf)
 - 📧 Email: chandak.yash101@gmail.com
 
 
